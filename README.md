@@ -2,14 +2,6 @@
 
 <img src="img/psyexp.svg" width="150" align="left" />
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 <div class=text-justify>
 
 The aim of this repository is collecting different functions useful during **Experimental Psychology** workflows. Usually we perform similar operations across experiments or different projects such as calculating distance and visual angles, manipulating images for stimuli. The idea is to collect and organize in an useful way several functions and general code for dealing with these operations.  
