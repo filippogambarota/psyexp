@@ -1,6 +1,6 @@
 # **PsyExp**
 
-<img src="img/psyexp.svg" width="100" align="left" />
+<img src="img/psyexp.svg" width="150" align="left" />
 
 </br>
 </br>
