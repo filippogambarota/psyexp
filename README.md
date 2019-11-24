@@ -1,6 +1,6 @@
 # **PsyExp**
 
-<img src="img/psyexp.svg" width="150" align="left" />
+<img src="img/psyexp.svg" width="130" align="left" />
 
 The aim of this repository is collecting different functions regards common **Experimental Psychology** workflows. Usually we perform similar operations across experiments or different projects such as calculating distance and visual angles, manipulating images for stimuli. The idea is to collect and organize in an useful way several functions and general code for dealing with these operations.  
 The final goal is creating an `R Package` for working in the same environment with the same language. However, for now, this repository contain also other functions from other programming languages.
