@@ -11,7 +11,7 @@ The final goal is creating an `R Package` for working in the same environment wi
 
   - [Functions](#functions)
     - [Oval Crop](#oval-crop)
-    - [Oval Crop](#read-all-images)
+    - [Read all images](#read-all-images)
 
 # Functions
 
